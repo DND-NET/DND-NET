@@ -1,16 +1,12 @@
-### Hi there 👋
+# KDD - 2024 Submission
+## Divide and Denoise: Empowering Simple Models for Robust Semi-Supervised Node Classification against Label Noise
 
-<!--
-**DND-NET/DND-NET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+To run the code:
+```python
+python main.py
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Run on ogbn-arxiv:
+```python
+python main_arix.py
+```
