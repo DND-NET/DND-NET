@@ -9,7 +9,8 @@ DnD-NeT offers a new solution to tackle the two problems from both the model arc
 
 ### Embedding visulization
 <p>
-  <img src="figs/coraml.png" width="1000">
+  <img src="figs/coraml.png" width="500">
+  <img src="figs/citeseer.png" width="500">
   <br />
 </p>
 
