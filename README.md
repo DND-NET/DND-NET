@@ -9,8 +9,8 @@ DnD-NeT offers a new solution to tackle the two problems from both the model arc
 
 ### Embedding visulization on Cora-ML (left) and CiteSeer (right)
 <p>
-  <img src="figs/coraml.png" width="200">
-  <img src="figs/citeseer.png" width="200">
+  <img src="figs/coraml.png" width="300">
+  <img src="figs/citeseer.png" width="300">
   <br />
 </p>
 
