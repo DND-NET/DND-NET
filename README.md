@@ -20,7 +20,7 @@ We sincerely appreciate all reviewers for their valuable comments. Per their com
 1.2. Additional case study on replacing our DnD-NeT with GCN as the backbone are highlighted in the <font color=red >RED</font> box.
 
 <p>
-  <img src="rebuttalfigs/pair50.png" width="1000">
+  <img src="Rebuttalfigs/pair50.png" width="1000">
   <br />
 </p>
 
