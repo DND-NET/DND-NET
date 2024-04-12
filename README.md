@@ -23,8 +23,9 @@ The results demonstrate that conventional non-decoupled GNN with NPA and PL perf
 
 ### P2. Experiments on high label noise ratio (Reviewer 7B64 Q1&Q2)
 
-The experiment results of all methods on four datasets with 50% pair noise are reported as follows:
+The experiment results of all methods on five datasets with 50% pair noise are reported as follows:
 
+#### Results on ogbn-arxiv
 | Method      | **Uniform Noise 20%** | **Uniform Noise 40%** | **Uniform Noise 60%** | **Pair Noise 20%** | **Pair Noise 30%** | **Pair Noise 40%** | **Pair Noise 50%** |
 |-------------|:-------------------:|:-------------------:|:-------------------:|:----------------:|:----------------:|:----------------:|:----------------:|
 | GCN         | 50.4±1.0          | 50.0±0.8          | 45.5±1.2          | 52.0±0.6       | 51.4±0.6       | 50.2±1.2       | 38.96±2.4      |
