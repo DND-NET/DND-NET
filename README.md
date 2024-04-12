@@ -77,7 +77,7 @@ The experiment results of all methods on five datasets with 50% pair noise are r
 |            | T-Revision  | 32.18±5.8      |
 |            | Pi-GNN      | 39.38±3.5      |
 |            | ERASE       | 37.01±7.6      |
-|            | DnD-NeT     | **40.34±1.2**  |
+|            | **_DnD-NeT_**     | **40.34±1.2**  |
 
 As shown in the results, our approach can still achieve noticeable improvements over baselines on high label noise ratio on different datasets.
 
