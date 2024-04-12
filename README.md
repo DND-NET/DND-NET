@@ -72,17 +72,13 @@ The experiment results of all methods on five datasets with 50% pair noise are r
 |            | Pi-GNN            | 53.49±6.03      |
 |            | ERASE             | 46.09±3.12      |
 |            | **_DnD-NeT_**| **65.38±4.97**  |
-
-
-#### Results on ogbn-arxiv
-| Method      | **Uniform Noise 20%** | **Uniform Noise 40%** | **Uniform Noise 60%** | **Pair Noise 20%** | **Pair Noise 30%** | **Pair Noise 40%** | **Pair Noise 50%** |
-|-------------|:-------------------:|:-------------------:|:-------------------:|:----------------:|:----------------:|:----------------:|:----------------:|
-| GCN         | 50.4±1.0          | 50.0±0.8          | 45.5±1.2          | 52.0±0.6       | 51.4±0.6       | 50.2±1.2       | 38.96±2.4      |
-| Co-teaching | 50.9±0.7          | 50.8±0.1          | 50.0±0.6          | 50.8±0.5       | 50.1±0.4       | 46.6±0.8       | 34.42±5.8      |
-| T-Revision  | 52.5±0.4          | 53.9±0.2          | 49.5±2.1          | 22.9±7.5       | 20.3±2.9       | 19.88±6.6      | 32.18±5.8      |
-| Pi-GNN      | 54.6±5.8          | 53.4±4.3          | 53.1±3.8          | 51.8±2.7       | 49.2±3.2       | 48.4±6.3       | 39.38±3.5      |
-| ERASE       | _67.1±1.3_        | _62.6±1.5_        | _57.1±1.9_        | _67.9±1.2_     | _65.7±1.3_     | _53.4±2.1_     | 37.01±7.6      |
-| DnD-NeT   | **67.5±1.5**      | **65.9±1.1**      | **59.7±2.3**      | **68.2±1.9**   | **66.2±2.0**   | **53.8±1.5**   | **40.34±1.2**     |
+| ogbn-arxiv|-------------|:---------------:|
+|            | GCN         | 38.96±2.4      |
+|            | Co-teaching | 34.42±5.8      |
+|            | T-Revision  | 32.18±5.8      |
+|            | Pi-GNN      | 39.38±3.5      |
+|            | ERASE       | 37.01±7.6      |
+|            | DnD-NeT     | **40.34±1.2**  |
 
 As shown in the results, our approach can still achieve noticeable improvements over baselines on high label noise ratio on different datasets.
 
