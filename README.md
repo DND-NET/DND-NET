@@ -72,8 +72,7 @@ The experiment results of all methods on five datasets with 50% pair noise are r
 |            | Pi-GNN            | 53.49±6.03      |
 |            | ERASE             | 46.09±3.12      |
 |            | **_DnD-NeT_**| **65.38±4.97**  |
-| ogbn-arxiv|-------------|:---------------:|
-|            | GCN         | 38.96±2.4      |
+| ogbn-arxiv | GCN         | 38.96±2.4      |
 |            | Co-teaching | 34.42±5.8      |
 |            | T-Revision  | 32.18±5.8      |
 |            | Pi-GNN      | 39.38±3.5      |
