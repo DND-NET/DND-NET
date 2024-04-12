@@ -69,7 +69,10 @@ As shown in the results, our approach can still achieve noticeable improvements 
 
 The comparison results between ERASE and our approach under the setting of ERASE are as follows:
 
-
+| Cora        | Uniform Noise 10% | Uniform Noise 20% | Uniform Noise 30% | Uniform Noise 40% | Uniform Noise 50% |
+|-------------|-------------------|-------------------|-------------------|----------------|----------------|
+| ERASE       | 81.58±0.80         | 80.37±0.77       | 79.61±0.95        | 78.13±1.07      | 78.01±1.05     |
+| **_DnD-NeT_**     | **82.40±0.43**     | **82.10±0.39**   | **79.70±1.41**    | **78.72.2±1.57**| **78.23±1.38**   |
 
 Based on the results, we can observe that our model still outperforms ERASE under this setting. 
 
