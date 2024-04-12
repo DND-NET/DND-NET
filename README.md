@@ -9,6 +9,20 @@ DnD-NeT offers a new solution to tackle the two problems from both the model arc
   <br />
 </p>
 
+## KDD - Rebuttal Response and Updated Results
+
+We sincerely appreciate all reviewers for their valuable comments. Per their comments, we have conducted additional experiments with xxx, xxx, xxx and xxx, and the results are reported in the Tables as follows.
+
+### More Experiments on High-level pair noise (50%)
+
+1.1. The experiment results of all methods on four datasets with 50% pair noise are highlighted in the <font color=blue >BLUE</font> box.
+
+1.2. Additional case study on replacing our DnD-NeT with GCN as the backbone are highlighted in the <font color=red >RED</font> box.
+
+<p>
+  <img src="rebuttalfigs/pair50.png" width="1000">
+  <br />
+</p>
 
 ### Embedding space visulization on Cora-ML (left) and CiteSeer (right)
 <p>
