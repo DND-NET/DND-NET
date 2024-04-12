@@ -27,7 +27,7 @@ The experiment results of all methods on five datasets with 50% pair noise are r
 
 #### Results on four datasets
 | Dataset    | Methods           | Pair Noise 50%  | Dataset    | Methods           | Pair Noise 50%  | Dataset    | Methods        | Pair Noise 50%  | Dataset    | Methods        | Pair Noise 50%  |
-|------------|:-------------------:|:-----------------:|------------|:-------------------:|:-----------------:|------------|:------------:|:---------:|------------|:------------:|:---------:|
+|------------|-------------------|:-----------------:|------------|-------------------|:-----------------:|------------|------------|:---------:|------------|------------|:---------:|
 | Cora-ML    | GCN               | 44.43±3.44      | CiteSeer   | GCN               | 37.94±4.03      |PubMed     | GCN               | 53.85±3.14      |Coauthor CS| GCN               | 51.08±3.74      |
 |            | SGC               | 48.80±5.32      |            | SGC               | 39.66±3.79      |           | SGC               | 59.84±2.68      |           | SGC               | 61.73±5.39      |
 |            | GRAND             | 41.20±2.95      |            | GRAND             | 30.19±7.78      |           | GRAND             | 60.26±3.56      |           | GRAND             | 60.26±3.56      |
