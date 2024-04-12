@@ -25,7 +25,6 @@ The results demonstrate that conventional non-decoupled GNN with NPA and PL perf
 
 The experiment results of all methods on five datasets with 50% pair noise are reported as follows:
 
-#### Results on four datasets
 | Dataset    | Methods           | Pair Noise 50%  | Dataset    | Methods           | Pair Noise 50%  |
 |------------|-------------------|:---------------:|------------|-------------------|:---------------:|
 | Cora-ML    | GCN               | 44.43±3.44      | CiteSeer   | GCN               | 37.94±4.03      |
