@@ -25,6 +25,55 @@ The results demonstrate that conventional non-decoupled GNN with NPA and PL perf
 
 The experiment results of all methods on five datasets with 50% pair noise are reported as follows:
 
+#### Results on four datasets
+| Dataset    | Methods           | Pair Noise 50%  |
+|------------|:-------------------:|:-----------------:|
+| Cora-ML    | GCN               | 44.43±3.44      |
+|            | SGC               | 48.80±5.32      |
+|            | GRAND             | 41.20±2.95      |
+|            | PTA               | 42.37±5.15      |
+|            | Co-teaching       | 47.53±6.47      |
+|            | T-Revision        | 47.33±4.30      |
+|            | NRGNN             | 48.23±4.23      |
+|            | RTGNN             | 43.66±4.07      |
+|            | Pi-GNN            | 45.03±2.71      |
+|            | ERASE             | 43.93±3.35      |
+|            | **_DnD-NeT_**     | **49.79±7.99**  |
+| CiteSeer   | GCN               | 37.94±4.03      |
+|            | SGC               | 39.66±3.79      |
+|            | GRAND             | 30.19±7.78      |
+|            | PTA               | 44.37±6.24      |
+|            | Co-teaching       | 41.11±5.29      |
+|            | T-Revision        | 41.42±4.79      |
+|            | NRGNN             | 42.15±3.62      |
+|            | RTGNN             | 37.30±4.72      |
+|            | Pi-GNN            | 40.02±4.55      |
+|            | ERASE             | 45.89±7.36      |
+|            | **_DnD-NeT_**     | **46.33±3.06**  |
+| PubMed     | GCN               | 53.85±3.14      |
+|            | SGC               | 59.84±2.68      |
+|            | GRAND             | 60.26±3.56      |
+|            | PTA               | 53.90±3.38      |
+|            | Co-teaching       | 55.02±8.14      |
+|            | T-Revision        | 58.39±3.73      |
+|            | NRGNN             | 55.19±3.69      |
+|            | RTGNN             | 53.96±6.19      |
+|            | Pi-GNN            | 54.88±4.29      |
+|            | ERASE             | 57.33±3.83      |
+|            | **_DnD-NeT_**     | **60.74±3.74**  |
+| Coauthor CS| GCN               | 51.08±3.74      |
+|            | SGC               | 61.73±5.39      |
+|            | GRAND             | 60.26±3.56      |
+|            | PTA               | 64.14±6.04      |
+|            | Co-teaching       | 59.61±6.36      |
+|            | T-Revision        | 60.92±6.76      |
+|            | NRGNN             | 60.76±5.82      |
+|            | RTGNN             | 43.39±2.86      |
+|            | Pi-GNN            | 53.49±6.03      |
+|            | ERASE             | 46.09±3.12      |
+|            | **_DnD-NeT_**| **65.38±4.97**  |
+
+
 #### Results on ogbn-arxiv
 | Method      | **Uniform Noise 20%** | **Uniform Noise 40%** | **Uniform Noise 60%** | **Pair Noise 20%** | **Pair Noise 30%** | **Pair Noise 40%** | **Pair Noise 50%** |
 |-------------|:-------------------:|:-------------------:|:-------------------:|:----------------:|:----------------:|:----------------:|:----------------:|
