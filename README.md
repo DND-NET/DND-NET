@@ -74,6 +74,11 @@ The comparison results between ERASE and our approach under the setting of ERASE
 | ERASE       | 81.58±0.80         | 80.37±0.77       | 79.61±0.95        | 78.13±1.07      | 78.01±1.05     |
 | **_DnD-NeT_**     | **82.40±0.43**     | **82.10±0.39**   | **79.70±1.41**    | **78.72.2±1.57**| **78.23±1.38**   |
 
+| Cora        | Pair Noise 10% | Pair Noise 20% | Pair Noise 30% | Pair Noise 40% | Pair Noise 50% |
+|-------------|-------------------|-------------------|-------------------|----------------|----------------|
+| ERASE       | 81.43±0.90        | 80.46±1.00        | 79.52±1.13        | 75.36±2.32     | 48.00±2.52     |
+| **_DnD-NeT_**     | **82.80±1.73**      | **81.95±0.71**      | **80.15±0.36**      | **77.15±2.51**   | **53.43±4.81**   |
+
 Based on the results, we can observe that our model still outperforms ERASE under this setting. 
 
 
