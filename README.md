@@ -86,8 +86,8 @@ The comparison results between ERASE and our approach under the setting of ERASE
 
 | PubMed        | Pair Noise 10% | Pair Noise 20% | Pair Noise 30% | Pair Noise 40% | Pair Noise 50% |
 |-------------|:-------------------:|:-------------------:|:-------------------:|:----------------:|:----------------:|
-| ERASE       | 78.01±1.10        | 76.70±1.07       | 76.71±1.55       | 73.00±2.62    | 61.46±2.90    |
-| **_DnD-NeT_**     | **79.58+1.87**      | **78.73±0.75**      | **77.13±1.03**      | **72.60±2.69**   | **67.48±2.02**   |
+| ERASE       | 78.01±1.10        | 76.70±1.07       | 76.71±1.55       | **73.00±2.62**    | 61.46±2.90    |
+| **_DnD-NeT_**     | **79.58+1.87**      | **78.73±0.75**      | **77.13±1.03**      | 72.60±2.69   | **67.48±2.02**   |
 
 Based on the results, we can observe that our model still outperforms ERASE under this setting. 
 
